@@ -50,7 +50,7 @@ Start with one of these:
 - Personal Portfolio
 - To-Do List App
 
-Stay connected with us to be among the first to explore these projects in our upcoming publications.
+[Stay connected](https://webdevhub.dev/#newsletter) with us to be among the first to explore these projects in our upcoming publications.
 
 ---
 
